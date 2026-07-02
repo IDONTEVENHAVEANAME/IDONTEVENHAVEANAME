@@ -20,7 +20,7 @@ A proactive developer and systems engineer passionate about bridging the gap bet
 ---
 
 ## 🔭 Current Focus & Prototyping
-* **QasmXray:** Prototyping a static analysis and structural reverse engineering framework for OpenQASM (3.0). The project focuses on decompiling gate-level quantum assembly languages to construct Abstract Syntax Trees (AST), with the ultimate goal of evaluating circuit vulnerability against topological inference attacks.
+* **QasmXray:** Prototyping a static analysis and structural reverse engineering framework for OpenQASM 3.0. The project focuses on decompiling gate-level quantum assembly languages to construct Abstract Syntax Trees (AST), with the ultimate goal of evaluating circuit vulnerability against topological inference attacks.
 
 ## 🌱 Active Learning Path
 * Deep diving into advanced quantum computing mathematics and compiler parsing methodologies.
